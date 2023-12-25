@@ -1,0 +1,402 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3739
+/Users/shiuanny/Documents/website_for_TAP/website_for_TAP/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3593
+"GET /media/uploads/red-apple-isolated-clipping-path-19130134.webp HTTP/1.1" 200 20596
+"GET /media/uploads/book-7672463_1280.webp HTTP/1.1" 200 129704
+"GET /media/uploads/Iphone-cell-phone-clipart-free-clipart-images-2.png HTTP/1.1" 200 199938
+"GET /admin/ HTTP/1.1" 200 9821
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/admin/logentry/ HTTP/1.1" 200 15679
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /admin/auth/user/ HTTP/1.1" 200 11542
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/auth/group/ HTTP/1.1" 200 8337
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/auth/user/ HTTP/1.1" 200 11542
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3593
+Not Found: /media/uploads/red-apple-isolated-clipping-path-19130134.webp
+Not Found: /media/uploads/book-7672463_1280.webp
+Not Found: /media/uploads/Iphone-cell-phone-clipart-free-clipart-images-2.png
+"GET /media/uploads/red-apple-isolated-clipping-path-19130134.webp HTTP/1.1" 404 179
+"GET /media/uploads/book-7672463_1280.webp HTTP/1.1" 404 179
+"GET /media/uploads/Iphone-cell-phone-clipart-free-clipart-images-2.png HTTP/1.1" 404 179
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 179
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3593
+"GET /media/uploads/red-apple-isolated-clipping-path-19130134.webp HTTP/1.1" 200 20596
+"GET /media/uploads/book-7672463_1280.webp HTTP/1.1" 200 129704
+"GET /media/uploads/Iphone-cell-phone-clipart-free-clipart-images-2.png HTTP/1.1" 200 199938
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 9821
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/online_store/item/ HTTP/1.1" 200 9586
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/auth/user/ HTTP/1.1" 200 11542
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/group/ HTTP/1.1" 200 8337
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/auth/user/ HTTP/1.1" 200 11542
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/admin/logentry/ HTTP/1.1" 200 15679
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3542
+"GET / HTTP/1.1" 200 3532
+"GET / HTTP/1.1" 200 3532
+"GET / HTTP/1.1" 200 3532
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3533
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 9821
+Internal Server Error: /admin/online_store/item/
+Traceback (most recent call last):
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: online_store_item.status
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/contrib/admin/options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/utils/decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/query.py", line 380, in __len__
+    self._fetch_all()
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: online_store_item.status
+"GET /admin/online_store/item/ HTTP/1.1" 500 155248
+"GET /admin/ HTTP/1.1" 200 9821
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3542
+"GET / HTTP/1.1" 200 3539
+"GET /admin/ HTTP/1.1" 200 9821
+"GET /admin/online_store/item/ HTTP/1.1" 200 9586
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/3/change/ HTTP/1.1" 200 11839
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+"POST /admin/online_store/item/3/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9793
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11848
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9798
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11785
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/1/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/ HTTP/1.1" 200 9826
+"GET / HTTP/1.1" 200 3576
+"GET / HTTP/1.1" 200 3874
+"GET / HTTP/1.1" 200 3952
+"GET / HTTP/1.1" 200 4051
+"GET /admin/ HTTP/1.1" 200 9826
+"GET /admin/online_store/item/ HTTP/1.1" 200 9599
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11821
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/1/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11904
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9804
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11833
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/1/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/3/change/ HTTP/1.1" 200 11875
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/3/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9803
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/3/change/ HTTP/1.1" 200 11546
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/3/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9803
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/ HTTP/1.1" 200 9849
+"GET / HTTP/1.1" 200 4037
+"GET /media/uploads/heart-rate-cadence-cross-over.webp HTTP/1.1" 200 7462
+"GET /admin/ HTTP/1.1" 200 9849
+"GET /admin/online_store/item/ HTTP/1.1" 200 9599
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/ HTTP/1.1" 200 9599
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11860
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9804
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11875
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9804
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/1/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11569
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/1/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET / HTTP/1.1" 200 4099
+"GET /media/uploads/heart-rate-cadence-cross-over.webp HTTP/1.1" 304 0
+"GET /media/uploads/X-chart-showing-daily-systolic-blood-pressure-mmHg-readings-for-a-hypertensive.png HTTP/1.1" 200 10854
+"GET /admin/ HTTP/1.1" 200 9863
+"GET /admin/online_store/item/ HTTP/1.1" 200 9599
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11875
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9804
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9796
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/ HTTP/1.1" 200 9857
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11520
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9796
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/ HTTP/1.1" 200 9853
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 880, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/shiuanny/Documents/synapxe_assignment_2023/online_store/views.py", line 15, in index
+    return render(request, "online_store/index.html", context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/defaulttags.py", line 321, in render
+    return nodelist.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/template/base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/fields/files.py", line 66, in url
+    self._require_file()
+  File "/Users/shiuanny/anaconda3/lib/python3.10/site-packages/django/db/models/fields/files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+"GET / HTTP/1.1" 500 199537
+"GET /admin/ HTTP/1.1" 200 9853
+"GET /admin/online_store/item/ HTTP/1.1" 200 9595
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/1/change/ HTTP/1.1" 200 11970
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/online_store/item/ HTTP/1.1" 200 9595
+"GET /admin/online_store/item/2/change/ HTTP/1.1" 200 11520
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/online_store/item/2/change/ HTTP/1.1" 302 0
+"GET /admin/online_store/item/ HTTP/1.1" 200 9796
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET / HTTP/1.1" 200 4106
+"GET /media/uploads/X-chart-showing-daily-systolic-blood-pressure-mmHg-readings-for-a-hypertensive.png HTTP/1.1" 304 0
+"GET /media/uploads/heart-rate-cadence-cross-over.webp HTTP/1.1" 304 0
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 200 148495
+"GET /items/3/ HTTP/1.1" 200 1800
+"GET / HTTP/1.1" 200 4106
+"GET /media/uploads/X-chart-showing-daily-systolic-blood-pressure-mmHg-readings-for-a-hypertensive.png HTTP/1.1" 304 0
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 304 0
+"GET /items/3/ HTTP/1.1" 200 1860
+"GET /items/3/ HTTP/1.1" 200 1870
+"GET /media/uploads/heart-rate-cadence-cross-over.webp HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 4106
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 304 0
+"GET /items/3/ HTTP/1.1" 200 1861
+"GET / HTTP/1.1" 200 4106
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 304 0
+"GET /items/1/ HTTP/1.1" 200 1926
+"GET / HTTP/1.1" 200 4106
+"GET /media/uploads/X-chart-showing-daily-systolic-blood-pressure-mmHg-readings-for-a-hypertensive.png HTTP/1.1" 304 0
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 304 0
+"GET /items/2/ HTTP/1.1" 200 1872
+"GET / HTTP/1.1" 200 4106
+"GET /admin/ HTTP/1.1" 200 9848
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4115
+"GET /media/uploads/X-chart-showing-daily-systolic-blood-pressure-mmHg-readings-for-a-hypertensive.png HTTP/1.1" 304 0
+"GET /media/uploads/heart-rate-cadence-cross-over.webp HTTP/1.1" 304 0
+"GET /media/uploads/16191883-cheerful-young-man-isolated-over-white-background.jpg HTTP/1.1" 304 0
+"GET /items/1/ HTTP/1.1" 200 1935
+"GET / HTTP/1.1" 200 4115
+"GET /items/3/ HTTP/1.1" 200 1870
+"GET / HTTP/1.1" 200 4115
