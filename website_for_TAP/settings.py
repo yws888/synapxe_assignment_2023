@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-p5xuh72ov4lcbx7+k=k!l!d)3hb1+_m$v5&)203^3v^kr5(i@2"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -117,8 +117,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = 'static/'
-STATIC_ROOT =  os.path.join(BASE_DIR, 'static')
+STATIC_URL = '/static/'
+STATIC_ROOT =  os.path.join(BASE_DIR, 'assets')
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
@@ -134,39 +134,39 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'formatters': {
-    'verbose': {
-        'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
-        'style': '{',
-        },
-    },
-    # Create a log handler that prints logs to the terminal
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-            # 'formatter': 'verbose',
-        },
-        # Add a handler to write logs to a file
-        'file': {
-            # Use the FileHandler class
-            'class': 'logging.FileHandler',
-            'filename': os.path.join(os.getcwd(), "online_store","django.log")
-        },
-    },
-    # Define the root logger's settings
-    'root': {
-        'handlers': ['console', 'file'],
-        'level': 'INFO',
-    },
-    # Define the django log module's settings
-    'loggers': {
-        'django': {
-            'handlers': ['console', 'file'],
-            'level': os.getenv('DJANGO_LOG_LEVEL', 'INFO'),
-            'propagate': False,
-        },
-    },
-}
+# LOGGING = {
+#     'version': 1,
+#     'disable_existing_loggers': False,
+#     'formatters': {
+#     'verbose': {
+#         'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
+#         'style': '{',
+#         },
+#     },
+#     # Create a log handler that prints logs to the terminal
+#     'handlers': {
+#         'console': {
+#             'class': 'logging.StreamHandler',
+#             # 'formatter': 'verbose',
+#         },
+#         # Add a handler to write logs to a file
+#         'file': {
+#             # Use the FileHandler class
+#             'class': 'logging.FileHandler',
+#             'filename': os.path.join(os.getcwd(), "online_store","django.log")
+#         },
+#     },
+#     # Define the root logger's settings
+#     'root': {
+#         'handlers': ['console', 'file'],
+#         'level': 'INFO',
+#     },
+#     # Define the django log module's settings
+#     'loggers': {
+#         'django': {
+#             'handlers': ['console', 'file'],
+#             'level': os.getenv('DJANGO_LOG_LEVEL', 'INFO'),
+#             'propagate': False,
+#         },
+#     },
+# }
